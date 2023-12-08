@@ -130,7 +130,9 @@ export default function Home() {
               placeholder="전화번호를 입력해주세요." 
               required 
           />
-          <div className="total"><span>최종금액: <b>{`${price.toLocaleString()}원`}</b></span></div>
+          <div className="total">
+            <span>최종금액: <b>{`${price.toLocaleString()}원`}</b></span>
+          </div>
         </div>
         <div className="method_info">
           <div className="box_section">
