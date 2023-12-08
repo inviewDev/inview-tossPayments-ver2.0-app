@@ -1,3 +1,4 @@
+
 export const buttons = [
     {
       name: '홈페이지 G패키지',
@@ -144,4 +145,4 @@ export const buttons = [
         { value: '4400000', label: '4,400,000원' },
       ],
     }
-  ];
+];
