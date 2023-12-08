@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import { PaymentWidgetInstance,loadPaymentWidget,ANONYMOUS,} from "@tosspayments/payment-widget-sdk";
 import { nanoid } from "nanoid";
 import { useQuery } from "@tanstack/react-query";
-import { buttons } from './price';
+import { buttons } from '../../data/price';
 const clientKey = "test_gck_ma60RZblrqBdewZpABvE8wzYWBn1";
 const customerKey = nanoid();
 
