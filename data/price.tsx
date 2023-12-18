@@ -28,7 +28,6 @@ export const buttons = [
         { value: '660000', label: '660,000원' },
         { value: '726000', label: '726,000원' },
         { value: '825000', label: '825,000원' },
-        { value: '100', label: '100원' },
       ],
     },
     {
