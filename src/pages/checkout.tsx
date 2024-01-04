@@ -3,7 +3,7 @@ import { PaymentWidgetInstance,loadPaymentWidget,ANONYMOUS,} from "@tosspayments
 import { nanoid } from "nanoid";
 import { useQuery } from "@tanstack/react-query";
 import { buttons } from '../../data/price';
-const clientKey = "test_gck_ma60RZblrqBdewZpABvE8wzYWBn1";
+const clientKey = "live_gck_yL0qZ4G1VOLo1ke0zzKYroWb2MQY";
 const customerKey = nanoid();
 
 export default function Home() {
