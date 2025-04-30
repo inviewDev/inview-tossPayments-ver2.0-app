@@ -36,6 +36,7 @@ export const buttons = [
         { value: '0', label: '옵션선택' },
         { value: '550000', label: '550,000원' },
         { value: '1100000', label: '1,100,000원' },
+        { value: '1540000', label: '1,540,000원' },
         { value: '1650000', label: '1,650,000원' },
         { value: '2200000', label: '2,200,000원' },
         { value: '3300000', label: '3,300,000원' },
