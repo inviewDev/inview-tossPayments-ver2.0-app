@@ -10,7 +10,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>INVIEW</title>
+        <title>INVIEW - 빌드테스트</title>
       </Head>
       <QueryClientProvider client={queryClient}>
         <Component {...pageProps} />
